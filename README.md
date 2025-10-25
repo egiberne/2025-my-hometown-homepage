@@ -1,6 +1,6 @@
 # Recap
 
-I am grateful to have completed the Hometown Homepage by applying key web development techniques:
+I am grateful to be able to start a homepage related to Hometown by applying key web development techniques:
 
 - [x] Controlled 
 - [x] Implemented 
