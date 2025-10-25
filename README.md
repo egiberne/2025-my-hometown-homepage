@@ -8,7 +8,7 @@ I am grateful to have completed the Hometown Homepage by applying key web develo
 - [x] Leveraged  
 - [x] Added  
 
-[See my project]  
+[See live project](https://2025-my-hometown-homepage.netlify.app/)  
 
 ## Getting Started
 Install the dependencies and run the project
