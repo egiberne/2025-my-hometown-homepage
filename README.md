@@ -2,11 +2,11 @@
 
 I am grateful to have completed the Hometown Homepage by applying key web development techniques:
 
-- [ x] Controlled 
-- [ x] Implemented 
-- [ x] Used
-- [ x] Leveraged  
-- [ x] Added  
+- [x] Controlled 
+- [x] Implemented 
+- [x] Used
+- [x] Leveraged  
+- [x] Added  
 
 [See my project]  
 
