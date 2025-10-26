@@ -32,7 +32,7 @@ img {
 
 #hero {
 
-    background-image: url("/images/torshov.jpg");
+    background-image: url("./images/torshov.jpg");
     background-size: cover;
     color:#F1FAEE;
     text-shadow: 0px 0px 1px  #1D3557 ;
