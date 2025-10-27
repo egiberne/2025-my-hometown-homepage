@@ -9,10 +9,10 @@ DARK BLUE: #1D3557
 */
 
 body {
-    width: 1000px;
+    width: 720px;
     margin : 0 auto;
     text-align: center;
-    font-family: Helvetica, Arial, sans-serif;
+      font-family: "Roboto", sans-serif;
 
 }
 
@@ -21,17 +21,29 @@ img {
     border-radius: 50%;
 }
 
-#hero, #activities, #guide, #footer {
-    width: 750px;
-    height: 350px;
-   
+
+/* MENU SECTION */
+
+#menu {
+    background-color:  #1D3557;
+    font-weight: bold;
+    padding: 20px 0;
 }
 
+#menu ul {
+    list-style: none;
+
+}
+
+#menu li {
+    display: inline;
+    margin: 0 20px;
+}
 
 /* HERO SECTION */
 
 #hero {
-
+    height: 400px;
     background-image: url("./images/torshov.jpg");
     background-size: cover;
     color:#F1FAEE;
@@ -50,12 +62,13 @@ img {
 }
 
 h1{
-   background-color: #1D3557; 
+    background-color: #457B9D; 
    margin: 0;
 }
 
 h2{
-   background-color: #457B9D; 
+   
+      background-color: #1D3557; 
    margin: 20px 150px;
   
 }
@@ -90,24 +103,111 @@ padding: 50px 0 0 0;
 
 /* GUIDE SECTION */
  #guide {
-    
+    display:flex;
+    padding : 20px;
+    width: 500px;
+    margin: 80px auto;
+    color: #1D3557;
+    background-color: #A8DADC;
+    border-radius: 10px;
+    border-bottom: #1D3557 5px solid;
    
 }
 
-#img-guide {
-    width: 150px;
+#guide-avatar {
+    width: 200px;
     border-radius: 10px;
+    margin-right: 20px;
+    
 }
 
+#guide-detail {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px;
+   
 
+}
+
+/*FACTS SECTION*/
+
+table {
+    margin: 0 auto;
+
+}
+
+caption {
+    font-size: 30px;
+    font-weight: bold;
+    color: #1D3557;
+}
+thead{
+    background-color:#1D3557;
+    font-weight: bold;
+    color: #F1FAEE;
+}
+tbody{
+    background-color: #A8DADC;
+
+}
+td, th {
+    padding: 10px 20px;
+    border: 1px solid #1D3557;
+}
+
+tfoot {
+    background-color: #457B9D;
+    color: #F1FAEE;
+    font-style: italic;
+}
+
+tfoot a {
+    color: #F1FAEE;
+    text-decoration: dashed underline;
+}
+
+tfoot a:hover {
+    color: #E63946;
+}
 
 /* FOOTER SECTION */
  #footer {
+    background-color: #1D3557;
+    color: #F1FAEE;
+    padding: 20px 0;
+    margin-top: 50px;
+    font-size: 14px;
    
 
 }
 
+a {
+    color: #457B9D;
+    text-decoration: none;
+}   
+
+a:hover {
+    color: #E63946;
+    text-decoration: dotted underline;
+}  
+
+a:visited {
+    color: #E63946;
+}
+
 .utility-border {
-   border : 1px dotted blue
+   border : 1px dotted blue;
 
 }
+
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
