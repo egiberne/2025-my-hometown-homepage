@@ -1,12 +1,17 @@
 # Recap
 
-I am grateful to be able to start a homepage related to Hometown by applying key web development techniques:
+I’m grateful to have started the Hometown Homepage, applying key web development techniques to build a clean and accessible layout:
 
-- [x] Controlled 
-- [x] Implemented 
-- [x] Used
-- [x] Leveraged  
-- [x] Added  
+- [x] Used **classes** and **IDs** to define element properties  
+- [x] Applied `background-color` and `background` styles to enhance visual design  
+- [x] Controlled layout using **Flexbox** for responsive structure  
+- [x] Structured content with semantic **sections** and **tables**  
+- [x] Adjusted **margin** and **padding** to improve spacing and center elements  
+- [x] Followed a **color palette** for accessibility and visual harmony  
+- [x] Reviewed the design using **Figma** for layout consistency  
+- [x] Included **Google Fonts** for improved typography  
+- [ ] Custom styling and content for my own hometown — coming soon!
+
 
 [See live project](https://2025-my-hometown-homepage.netlify.app/)  
 
